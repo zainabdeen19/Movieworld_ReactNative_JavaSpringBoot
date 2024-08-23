@@ -1,17 +1,7 @@
-# Movie-World Ticket Booking App 
+# Cinema Booking App 
 
-Welcome to the Movie-World Ticket Booking App, a full-stack application that offers a seamless movie ticket booking experience. Developed using modern technologies, this app allows users to browse movies, select theaters, choose seats, and purchase tickets with ease.
-This repo only includes the React Native part of the app.
+Cinema Booking Mobile App, a Java Spring Boot application that handles the management of cinema operations including movie listings, showtimes, seat reservations, and payment processing. React-Native serves as the front end of the application. The backend is structured around several key entities which helps store Information about cinema locations and their screens, details of movies that can be booked, scheduled times for movie screenings, seating information for each screen, user accounts for those booking tickets, records of user bookings, secure storage of payment information, links seats, showtimes, and bookings to track reservations.
 
-## Features
-- **Browse Movies:** Users can view the current movies playing in cinemas. 
-- **Movie Details:** Detailed information about movies, including synopsis, ratings, and showtimes.
-- **Theater Selection:** Choose from a list of theaters showing the selected movie.
-- **Showtime Selection:** Pick convenient showtimes for your movie experience.
-- **Ticket Booking:** Book tickets for adults, children, and students.
-- **Seat Selection:** Interactive seating plan to choose your preferred seats.
-- **Secure Payment:** Enter credit card information for secure transactions.
-- **Ticket Confirmation:** Successful bookings generate a ticket for the user.
 
 ## Database Schema
 The backend is structured around several key entities:
